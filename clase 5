@@ -1,0 +1,6 @@
+poner 
+	git init // se hace cada vez para cada proyecto
+				crea un repositorio
+	git status // estado del repositorio creado
+	git add css/
+	git commit -m "inicio"
