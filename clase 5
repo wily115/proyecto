@@ -2,5 +2,19 @@ poner
 	git init // se hace cada vez para cada proyecto
 				crea un repositorio
 	git status // estado del repositorio creado
-	git add css/
+	
+	git add css/ o git add -A // guardar cambios de 						los arhicvos modificados
+	
 	git commit -m "inicio"
+	 git commit -m ""agregue titulos" //comentario
+	 git log //git 
+
+	 volver a un proyecto atras
+	 		copio el codigo del comit
+	 		con "git checkout 'codigo' " vuelv en el pasado
+
+	 		 git checkout master lo vuelve a la norm
+
+
+
+
